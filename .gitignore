@@ -91,4 +91,15 @@ external
 output
 model
 
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+
+envs/
 .db
